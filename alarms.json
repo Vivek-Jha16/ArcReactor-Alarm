@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1779946896165,
+    "time": "11:12",
+    "label": "STARK PROTOCOL",
+    "days": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "enabled": false,
+    "sound": "arc",
+    "timezone": "Asia/Kolkata",
+    "created": "2026-05-28T11:11:36.165862"
+  }
+]
